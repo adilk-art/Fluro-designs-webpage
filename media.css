@@ -1,0 +1,240 @@
+@media(max-width:107rem){
+
+    .main{
+    background: url(Hero\ img.jpg);
+    background-size: cover;
+    background-position: 50% 30%;
+    width: 100%;
+    height: 90vh;
+    text-align: center;
+    padding-top: 40vh;
+    padding-left: 60px;
+}
+.main h1{
+    color:rgb(208, 255, 0);
+    font-family: "Share Tech", sans-serif;    font-size: 4rem;
+    font-weight: 600;
+    font-size: 1.5rem;
+    text-align: center;
+}
+    /* ipad */
+@media(max-width:65rem){
+
+    .main{
+    background: url(Hero\ img.jpg);
+    background-size: cover;
+    background-position: 50% 30%;
+    width: 100%;
+    height: 90vh;
+    text-align: center;
+    padding-top: 30vh;
+    padding-left: 100px;
+ }
+.main h1{
+    color:rgb(208, 255, 0);
+    font-family: "Share Tech", sans-serif;    font-size: 4rem;
+    font-weight: 600;
+    font-size: 2rem;
+    text-align: center;
+} 
+.btn-1{
+    text-align: center;
+    font-size: 1rem;
+    width: 8rem;
+   
+    color: rgb(208, 255, 0);
+    background-color: rgb(0, 0, 0);
+     border-color: rgb(208, 255, 0);
+    border-radius: 30px;
+     border: 1px solid;
+
+}
+
+} }
+/* tablet */
+
+@media(max-width:62rem){
+
+    .main{
+    background: url(Hero\ img.jpg);
+    background-size: cover;
+    background-position: 50% 30%;
+    width: 100%;
+    height: 90vh;
+    text-align: center;
+    padding-top: 20vh;
+    padding-left: 10px;
+ }
+ .category-list h5{
+    font-size: 0.75rem;
+
+}
+ .category-list .card{
+    
+
+ }
+ .delivery h1,.delivery-2 h1{
+    font-size: 1.5rem;
+
+}
+ .delivery p,.delivery-2 p{
+    font-size: 1rem;
+    
+ }
+ .shop-btn{
+    
+    color: rgb(0, 0, 0);
+    background-color: none;
+     border-color: black;
+    border-radius: 15px;
+     border: 1px solid;
+     margin-top: 2rem;
+}
+.main h1{
+    padding-top: 7rem;
+    color:rgb(208, 255, 0);
+    font-family: "Share Tech", sans-serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    text-align: center;
+    
+}
+.btn-1{
+    text-align: center;
+    font-size: 0.75rem;
+    width: 6rem;
+   
+    color: rgb(208, 255, 0);
+    background-color: rgb(0, 0, 0);
+     border-color: rgb(208, 255, 0);
+    border-radius: 15px;
+     border: 1px solid;
+
+}
+}
+
+/* phone */
+
+@media(max-width:36rem){
+
+.delivery h1,.delivery-2 h1{
+    font-size: 1rem;
+
+}
+.products h5{
+    font-size: 1.15rem;
+
+}
+.products p{
+    font-size: 0.75rem;
+    
+}
+.products .card{
+    
+    margin-top: 4rem;
+}
+.shop-btn{
+    font-size: 1rem; 
+    color: rgb(0, 0, 0);
+    background-color: none;
+     border-color: black;
+    border-radius: 15px;
+     border: 1px solid;
+     margin-top: 4rem;
+}
+.main h1{
+    padding-top: 5rem;
+    color:rgb(208, 255, 0);
+    font-family: "Share Tech", sans-serif;
+    font-weight: 600;
+    font-size: 1.50rem;
+    text-align: center;
+    
+}
+
+
+.btn-1{
+    text-align: center;
+    font-size: 1rem;
+    width: 6rem;
+   
+    color: rgb(208, 255, 0);
+    background-color: rgb(0, 0, 0);
+     border-color: rgb(208, 255, 0);
+    border-radius: 15px;
+     border: 1px solid;
+
+  
+
+}
+   .carousel-item img{
+    height:30rem ;
+
+
+}
+}
+@media(max-width:20rem){
+
+.delivery h1,.delivery-2 h1{
+    font-size: 0.75rem;
+
+}
+.delivery p,.delivery-2 p{
+    font-size: 0.50rem;
+
+}
+.products h5{
+    font-size: 0.75rem;
+
+}
+.products p{
+    font-size: 0.50rem;
+    
+}
+
+.products .card{
+    
+    margin-top: 4rem;
+}
+.shop-btn{
+    font-size: 1rem; 
+    color: rgb(0, 0, 0);
+    background-color: none;
+     border-color: black;
+    border-radius: 15px;
+     border: 1px solid;
+     margin-top: 4rem;
+}
+.main h1{
+    padding-top: 5rem;
+    color:rgb(208, 255, 0);
+    font-family: "Share Tech", sans-serif;
+    font-weight: 600;
+    font-size: 1.50rem;
+    text-align: center;
+    
+}
+
+
+.btn-1{
+    text-align: center;
+    font-size: 1rem;
+    width: 6rem;
+   
+    color: rgb(208, 255, 0);
+    background-color: rgb(0, 0, 0);
+     border-color: rgb(208, 255, 0);
+    border-radius: 15px;
+     border: 1px solid;
+
+  
+
+}
+   .carousel-item img{
+    height:20rem ;
+
+
+}
+
+
+}
